@@ -1,4 +1,4 @@
-in order to use this app open your terminal in your same dir and type python or python3 scrape.py
+First install the requirem
 
-* you can get all the links of two page in hacker news with the votes above 100 also sorted
-Enjoy!
+This is app that will let you get all the links of two page in hacker news with the votes above 100 also sorted
+So Enjoy!
